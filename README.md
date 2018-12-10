@@ -1,6 +1,6 @@
 # PENGUIN SHOOTER
 
-## HELLO THERE! 
+## ABOUT: 
 This game was created by German (Ogre Shrek) Gorodilov. It is my first serious PyGame and  Python project at all. The idea was is make a Python game to practice my code skills.
 
 ## HOW TO PLAY: 
