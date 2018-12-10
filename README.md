@@ -10,11 +10,10 @@ To count time press ENTER in the game scene. To restart press restart button
 in the pause scene.
 
 ## CONTACTS: 
-*ul
 Feel free to contact me if desired:
-tyske@yahoo.com
-vk.com/shrekogrmain
-t.me/korarora
+- tyske@yahoo.com
+- vk.com/shrekogrmain
+- t.me/korarora
 
 ![img](https://i.ibb.co/WVP0MVX/Screenshot-1.png)
 ![img](https://i.ibb.co/CMDz5TR/Screenshot-2.png)
