@@ -2,6 +2,6 @@
 
 Penguin Shooter is a PyGame game. Written in Python and PyGame.
 
-![Penguin Shooter Menu](https://ibb.co/FKgMG5w)
+![img](https://i.ibb.co/XbSgm7s/Screenshot-1.png)
 
-Video: 
+Video:
