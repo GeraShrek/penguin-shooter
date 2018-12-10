@@ -1,14 +1,15 @@
-# penguin-shooter
-HELLO THERE! 
+# PENGUIN SHOOTER
+
+# HELLO THERE! 
 This game was created by German (Ogre Shrek) Gorodilov. It is my first serious PyGame and  Python project at all. The idea was is make a Python game to practice my code skills.
 
-HOW TO PLAY: 
+# HOW TO PLAY: 
 Shoot the penguins which appear randomly. With each level the rate of appearance increases.
 Max score is 1000, max level is 100. When you getting 1000 points the score is restarted.
 To count time press ENTER in the game scene. To restart press restart button
 in the pause scene.
 
-CONTACTS: 
+# CONTACTS: 
 Feel free to contact me if desired:
 tyske@yahoo.com
 vk.com/shrekogrmain
